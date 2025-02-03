@@ -10,11 +10,12 @@
 }
 
 .qwe {
-    display: flex;
+    display: flex; 
 }
 
 .container {
     width: 1300px;
+    padding: 0 15px;
     margin: 0 auto;
 }
 
