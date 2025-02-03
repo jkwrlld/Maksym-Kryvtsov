@@ -1,0 +1,39 @@
+.nav-ul {
+    display: flex;
+    list-style: none;
+    
+}
+
+.header-ul {
+    display: flex;
+    list-style: none;
+}
+
+.qwe {
+    display: flex;
+}
+
+.container {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+
+
+.nav-li {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+}
+
+
+.header-title {
+    padding-top:21px;
+    margin-right: 20px;
+}
+
+.the-name-title {
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-top: 232px;
+}
