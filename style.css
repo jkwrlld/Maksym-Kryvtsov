@@ -9,6 +9,11 @@
     list-style: none;
 }
 
+.nav-a {
+    color: white;
+}
+
+
 .qwe {
     display: flex;
 }
@@ -22,10 +27,14 @@
 .header {
     padding-top: 24px;
     padding-bottom: 25px;
+    background-color: darkslategrey;
 }
 .header-a {
     margin-right: 92px;
+    color: white;
 }
+
+
 
 .nav-li {
     margin-left: 50px;
@@ -53,3 +62,17 @@
     font-size: 17px;
     height: 50px;
 }
+
+
+.text-p {
+    padding-top: 300px;
+    text-align: center;
+    font-size: 21px;
+}
+
+.text-p2 {
+    padding-top: 15px;
+    text-align: center;
+    font-size: 21px;
+}
+
