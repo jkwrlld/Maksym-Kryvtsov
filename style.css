@@ -32,6 +32,7 @@
 .header-a {
     margin-right: 92px;
     color: white;
+    padding-left: 4px;
 }
 
 
@@ -66,13 +67,36 @@
 
 .text-p {
     padding-top: 300px;
+    padding-bottom: 10px;
     text-align: center;
     font-size: 21px;
 }
 
 .text-p2 {
-    padding-top: 15px;
+    padding-bottom: 150px;
     text-align: center;
     font-size: 21px;
 }
 
+.footer {
+    background-color: darkslategrey;
+}
+
+.footer-address {
+    color: darkgray;
+    padding-top: 11px;
+    
+}
+
+.footer-contact {
+    color: darkgray;
+    padding-top: 11px;
+}
+
+.footer-li {
+    list-style: none;
+}
+
+.footer-a {
+    color: white;
+}
