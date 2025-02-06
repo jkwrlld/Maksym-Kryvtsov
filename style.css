@@ -85,12 +85,13 @@
 .footer-address {
     color: darkgray;
     padding-top: 11px;
+    padding-bottom: 6px;
     
 }
 
 .footer-contact {
     color: darkgray;
-    padding-top: 11px;
+    padding-top: 6px;
 }
 
 .footer-li {
@@ -99,4 +100,16 @@
 
 .footer-a {
     color: white;
+}
+
+.footer-p {
+    color: darkgray;
+    padding-top: 11px;
+}
+
+
+.footer-mail {
+    color: darkgray;
+    padding-top: 6px;
+    padding-bottom: 6px;
 }
