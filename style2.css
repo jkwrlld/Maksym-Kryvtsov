@@ -40,3 +40,43 @@
     margin-left: 50px;
     margin-right: 50px;
 }
+
+
+.main-title {
+    text-align: center;
+    font-size: 32px;
+    padding-top: 70px;
+}
+
+.poem-p1 {
+    padding-top: 11px;
+    font-size: 18px;
+}
+
+.poem-p2 {
+    padding-top: 11px;
+    font-size: 18px;
+}
+
+.poem-img1 {
+    padding-top: 18px;
+    padding-left: 131px;
+    width: 800px;
+    
+}
+
+.poem-img2 {
+    padding-top: 18px;
+    padding-left: 131px;
+    width: 800px;
+    
+}
+
+.poem-p3 {
+    padding-top: 11px;
+    font-size: 18px;
+}
+
+.poem-ul {
+    list-style: none;
+}
