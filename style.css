@@ -1,3 +1,7 @@
+.body {
+    font-family: "Roboto", serif;
+}
+
 .nav-ul {
     display: flex;
     list-style: none;
@@ -19,7 +23,7 @@
 }
 
 .container {
-    width: 1200px;
+    width: 1024px;
     padding: 0 15px;
     margin: 0 auto;
 }
@@ -33,6 +37,7 @@
     margin-right: 92px;
     color: white;
     padding-left: 4px;
+    font-family: "Raleway", serif;
 }
 
 
@@ -57,7 +62,8 @@
 .Max-img {
     width: 394px;
     height: 297px;
-    margin-right: 15px;
+    padding-right: 20px;
+
 }
 
 .Max-p {
@@ -101,6 +107,7 @@
 
 .footer-a {
     color: white;
+    font-family: "Raleway", serif;
 }
 
 .footer-p {
